@@ -32,7 +32,6 @@ export default function CookieConsentBanner() {
       <div className="container mx-auto max-w-4xl">
         <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4">
           <div className="flex items-start gap-3 flex-1">
-            <Cookie className="w-5 h-5 text-primary flex-shrink-0 mt-0.5" />
             <div>
               <h3 className="font-semibold text-sm text-foreground mb-1">Kolačići</h3>
               <p className="text-xs text-muted-foreground">

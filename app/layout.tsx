@@ -64,7 +64,6 @@ export const metadata: Metadata = {
     "online casino games",
     "casino bonuses"
   ],
-    generator: 'v0.app'
 }
 
 export default function RootLayout({
